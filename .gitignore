@@ -17,3 +17,7 @@ venv.bak/
 
 # Misc
 .DS_Store
+
+# Directories with datasets
+datasets/
+output/
