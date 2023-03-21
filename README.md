@@ -1,4 +1,4 @@
-### Deep Learning (Foundations): Course Project
+## Deep Learning (Foundations): Course Project
 **University:** NOVA Information Management School<br>
 **Program:** Master’s Degree Program in Data Science and Advanced Analytics<br>
 **Academic Year:** 2022/2023<br>
@@ -10,11 +10,11 @@
 - Hubert Oberhauser	(20220635)
 - Leo Allgaier (20220628)
 
-**Problem Description:** 
+## Project Deatils
+### Problem Description 
 Having images of 3 classes of bean plants (the class of healthy plants, and two classes of disease plants including Angular Leaf Spot desease and Bean Rust disease), build a robust Deep Learning model that will be able to distinguish between these 3 classes with high accuracy. 
 
-**Project Blueprint:**
-
+### Project Blueprint
 - 1.explore.ipynb:  data exploration;
 - 2.preprocess.ipynb:   the necessary data preprocessing steps, if any;
 - 3.model_handcrafted.ipynb:    sequential model construction in a greedy iterative manner;
@@ -24,4 +24,5 @@ Having images of 3 classes of bean plants (the class of healthy plants, and two 
 - 7.(...);
 - 8.optional_N.ipynb:   Nth optional technique.
 
-**Project Objective:** Apply the knowledge acquired throughout this course to tackle a given Supervised Machine Learning (SML) problem.
+### Project Objective
+Apply the knowledge acquired throughout the academic course to tackle a given Supervised Machine Learning (SML) problem.
