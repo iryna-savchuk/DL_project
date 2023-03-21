@@ -10,9 +10,10 @@
 - Hubert Oberhauser	(20220635)
 - Leo Allgaier (20220628)
 
-**Problem Description:** Classification of bean plants images (the task is to distinguish between healthy plants, and two disease classes of plants)<br> 
+**Problem Description:** 
+Having images of 3 classes of bean plants (the class of healthy plants, and two classes of disease plants including Angular Leaf Spot desease and Bean Rust disease), build a robust Deep Learning model that will be able to distinguish between these 3 classes with high accuracy. 
 
-The project blueprint:
+**Project Blueprint:**
 
 - 1.explore.ipynb:  data exploration;
 - 2.preprocess.ipynb:   the necessary data preprocessing steps, if any;
