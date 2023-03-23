@@ -7,8 +7,8 @@
 - Iryna Savchuk (20211310)
 - Cátia Sofia Pereira Parrinha (20201320)
 - Giulia Bovenga (20221637)
-- Hubert Oberhauser	(20220635)
-- Leo Allgaier (20220628)
+- Hubert Oberhauser	(20220628)
+- Leo Allgaier (20220635)
 
 ## Project Deatils
 ### Problem Description 
