@@ -25,6 +25,3 @@ Having images of 3 classes of bean plants (the class of healthy plants, and two 
 
 ### Project Objective
 Apply the knowledge acquired throughout the academic course to tackle a given Supervised Machine Learning (SML) problem.
-
-### Saved Models
-https://drive.google.com/drive/folders/183WOQEYfzZ6QaCwqDvACyO1O6FXqJbD1?usp=share_link
